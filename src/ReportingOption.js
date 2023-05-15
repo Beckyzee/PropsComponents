@@ -1,5 +1,5 @@
 import ReportingItem from './ReportingItem'
-import "../styles/ReportingOption.css"
+import "./styles/ReportingOption.css"
 
 export default function ReportingOption() {
     return (

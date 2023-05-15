@@ -1,8 +1,8 @@
-import Icon from '../images/logo.PNG'
-import "../styles/Logo.css"
+import icon from './Images/logo.png'
+import "./styles/Logo.css"
 
 export default function Logo() {
     return (
-        <img src={Icon} alt="Google Logo" className="Google-logo" />
+        <img src={icon} alt="Google Logo" className="Google-logo" />
     )
 }

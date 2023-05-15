@@ -1,4 +1,4 @@
-import "../styles/Avatar.css"
+import "./styles/Avatar.css"
 
 export default function Avatar() {
     return (

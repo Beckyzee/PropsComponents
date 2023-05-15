@@ -1,7 +1,7 @@
-import Icon from '../images/app-launcher.PNG'
+import icon from './Images/app-launcher.png'
 
 export default function AppsLauncherIcon() {
     return (
-        <img src={Icon} alt="Apps Launcher" style={{ height: "23px" }} />
+        <img src={icon} alt="Apps Launcher" style={{ height: "23px" }} />
     )
 }
