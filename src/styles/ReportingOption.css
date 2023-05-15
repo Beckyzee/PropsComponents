@@ -1,0 +1,16 @@
+.Reporting {
+    display: flex;
+    margin-left: 570px;
+    margin-top: 25px;
+
+}
+
+/* background-color: #f8f9fA; */
+.searchLuc {
+    display: flex;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14.5px;
+    color: #4D5156;
+    padding: 10px
+}

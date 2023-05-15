@@ -1,0 +1,42 @@
+.Bar {
+    position: relative;
+    margin-top: 40px;
+}
+
+.searchbar {
+    font-Size: 16px;
+    outline: None;
+    margin-top: 10px;
+    border: 1px solid #Dcdcdc;
+    Width: 582px;
+    Border-Radius: 30px;
+    outline: #Dcdcdc;
+    margin-left: 50px;
+    margin-top: 17px;
+    Height: 38px;
+    padding: 5px 8px 0px 14px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.search {
+    position: absolute;
+    margin-left: 395px;
+    top: 185px;
+
+}
+
+.voice {
+
+    position: absolute;
+    margin-left: 900px;
+    top: 185px;
+}
+
+.image {
+    position: absolute;
+    margin-left: 940px;
+    top: 189px;
+}

@@ -1,0 +1,19 @@
+.app-header {
+    display: flex;
+    justify-content: flex-end;
+    padding: epxpx;
+    margin-right: 8px;
+    margin-top: 8px;
+    font-size: 13px;
+    font-style: arial, sans-serif;
+}
+
+.app-header-content {
+    display: flex;
+    gap: 12px;
+    font-size: 13px;
+    font-style: arial, sans-serif;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 8px;
+}

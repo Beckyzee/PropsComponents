@@ -1,0 +1,22 @@
+.LangAll {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-left: 450px;
+}
+
+.Language {
+    color: #1A0DAB;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    padding: 0px 3px;
+}
+
+.Intro {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #4D5156;
+
+}
