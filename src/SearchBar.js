@@ -1,7 +1,7 @@
-import Icon1 from './src/images/search.PNG'
-import Icon2 from './src/images/search_voice.PNG'
-import Icon3 from './src/images/search_image.PNG'
-import '../src/styles/SearchBar.css'
+import icon1 from './Images/search.png'
+import icon2 from './Images/search_voice.png'
+import icon3 from './Images/search_image.png'
+import './styles/SearchBar.css'
 import { useState } from 'react'
 
 
@@ -14,9 +14,9 @@ export default function SearchBar() {
     return (
         <div ClassName="Bar">
             <input className="searchbar" type="Text" value={value} onChange={onChange} title="Search" />
-            <a href="#"> <img className="search" src={Icon1} alt="search" /></a>
-            <a href="#"> <img className="voice" src={Icon2} alt="voice search" /></a>
-            <a href="#"> <img className="image" src={Icon3} alt="image search" /></a>
+            <a href="#"> <img className="search" src={icon1} alt="search" /></a>
+            <a href="#"> <img className="voice" src={icon2} alt="voice search" /></a>
+            <a href="#"> <img className="image" src={icon3} alt="image search" /></a>
 
         </div>
     )

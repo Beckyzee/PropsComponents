@@ -1,10 +1,10 @@
 //import './src/styles/App.css'
-import GoogleApp from './components/GoogleApp'
+import GoogleApp from './GoogleApp'
 
 const App = () => {
   return (
     <div className="App">
-      { <GoogleApp /> }
+      <GoogleApp />
     </div>
   );
 }

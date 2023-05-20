@@ -1,4 +1,4 @@
-import '../styles/Location.css'
+import './styles/Location.css'
 
 export default function Location() {
     return (

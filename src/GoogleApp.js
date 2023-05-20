@@ -1,8 +1,8 @@
-import Header from './src/Header'
+import Header from './Header'
 
-import SearchSection from './src/SearchSection'
+import SearchSection from './SearchSection'
 
-import Footer from './src/Footer'
+import Footer from './Footer'
 
 
 
